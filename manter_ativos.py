@@ -2,7 +2,7 @@ import time
 import requests
 
 sites = [
-    "https://conversorpdfparaimagens.onrender.com/"
+    "https://conversorpdfparaimagens.onrender.com"
 ]
 
 def manter_sites_ativos():
